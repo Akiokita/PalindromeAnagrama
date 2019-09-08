@@ -1,0 +1,11 @@
+C:\Akio\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.deps.json
+C:\Akio\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.runtimeconfig.json
+C:\Akio\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.runtimeconfig.dev.json
+C:\Akio\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.dll
+C:\Akio\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.pdb
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.csprojAssemblyReference.cache
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.csproj.CoreCompileInputs.cache
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.AssemblyInfoInputs.cache
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.AssemblyInfo.cs
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.dll
+C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.pdb
