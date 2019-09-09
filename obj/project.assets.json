@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dalton\\.nuget\\packages\\": {},
+    "C:\\Users\\daokamura\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Akio\\Computação\\C#\\PalindromeAnagrama\\PalindromeAnagrama.csproj",
+      "projectUniqueName": "C:\\Dalton\\Computação\\C#\\PalindromeAnagrama\\PalindromeAnagrama.csproj",
       "projectName": "PalindromeAnagrama",
-      "projectPath": "C:\\Akio\\Computação\\C#\\PalindromeAnagrama\\PalindromeAnagrama.csproj",
-      "packagesPath": "C:\\Users\\Dalton\\.nuget\\packages\\",
-      "outputPath": "C:\\Akio\\Computação\\C#\\PalindromeAnagrama\\obj\\",
+      "projectPath": "C:\\Dalton\\Computação\\C#\\PalindromeAnagrama\\PalindromeAnagrama.csproj",
+      "packagesPath": "C:\\Users\\daokamura\\.nuget\\packages\\",
+      "outputPath": "C:\\Dalton\\Computação\\C#\\PalindromeAnagrama\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dalton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\daokamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -710,6 +710,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\daokamura\\source\\repos\\Sikuli Teste\\package": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

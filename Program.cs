@@ -3,8 +3,8 @@
 namespace PalindromeAnagrama {
     class Program {
         static void Main (string[] args) {
-            //ESCREVER A PALAVRA DESEJADA
-            char[] input = "tactcoa".ToCharArray ();
+            //ESCREVER A CADEIA DE CARACTERES DESEJADA
+            char[] input = "tactcoa".Replace(" ", "").ToCharArray ();
             System.Console.WriteLine (Palindrome.IsPalindrome (input));
         }
     }

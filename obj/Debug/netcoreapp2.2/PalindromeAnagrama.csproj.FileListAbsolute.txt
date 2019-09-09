@@ -9,3 +9,14 @@ C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAna
 C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.AssemblyInfo.cs
 C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.dll
 C:\Akio\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.pdb
+C:\Dalton\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.deps.json
+C:\Dalton\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.runtimeconfig.json
+C:\Dalton\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.runtimeconfig.dev.json
+C:\Dalton\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.dll
+C:\Dalton\Computação\C#\PalindromeAnagrama\bin\Debug\netcoreapp2.2\PalindromeAnagrama.pdb
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.csprojAssemblyReference.cache
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.csproj.CoreCompileInputs.cache
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.AssemblyInfoInputs.cache
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.AssemblyInfo.cs
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.dll
+C:\Dalton\Computação\C#\PalindromeAnagrama\obj\Debug\netcoreapp2.2\PalindromeAnagrama.pdb
